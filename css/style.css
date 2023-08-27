@@ -1,8 +1,9 @@
 .container {
 max-width:50%;
 margin:0 auto;
-padding:50px;
+padding:0;
 }
+
 h1 {
 font-style:bold;
 margin-bottom:0px;
