@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "some-rules": "error",
+    "other-rule": ["error", { "option": true }]
+  }
+}
